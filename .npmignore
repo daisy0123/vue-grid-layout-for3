@@ -1,0 +1,30 @@
+# 忽略目录
+.idea
+.vscode
+.history
+build/
+docs/
+examples/
+packages/
+public/
+node_modules/
+typings/
+
+# 忽略指定文件
+babel.config.js
+tsconfig.json
+tslint.json
+vue.config.js
+.gitignore
+.browserslistrc
+vite.config.ts 
+tsconfig.node.json 
+index.html 
+components.d.ts  
+auto-imports.d.ts 
+.prettierrc.js 
+.prettierignore 
+.eslintrc.js
+.editorconfig 
+*.map
+
